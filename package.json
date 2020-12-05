@@ -1,0 +1,23 @@
+{
+    "name": "@pierreminiggio/async-foreach",
+    "version": "1.0.0",
+    "description": "JavaScript Async Foreach",
+    "main": "main.js",
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/pierreminiggio/async-foreach.git"
+    },
+    "author": "Pierre MINIGGIO",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/pierreminiggio/async-foreach/issues"
+    },
+    "homepage": "https://github.com/pierreminiggio/async-foreach#readme",
+    "dependencies": {
+        "node": "^12.6.0"
+    },
+    "devDependencies": {},
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    }
+}
