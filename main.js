@@ -5,7 +5,7 @@
  * @param {number} index
  * @param {Array} array
  * 
- * @returns {void}
+ * @returns {Promise<*>}
  */
 
 /**
